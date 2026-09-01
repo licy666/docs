@@ -121,7 +121,7 @@
 
    <div class="hero-banner">
       <h1>昇腾开源生态全景图</h1>
-      <p style="opacity: 0.9; margin-top: 12px; font-size: 1.1rem;">赋能全球开发者，构建极致性能的昇腾 AI 算力底座（PR 预览演练标记，请勿合入）</p>
+      <p style="opacity: 0.9; margin-top: 12px; font-size: 1.1rem;">赋能全球开发者，构建极致性能的昇腾 AI 算力底座（PR 预览演练标记 v2，请勿合入）</p>
       <a href="sources/ascend/quick_install.html" class="hero-btn">🚀 快速安装昇腾环境</a>
    </div>
 
